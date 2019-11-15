@@ -1,0 +1,10 @@
+{
+  "name": "typescript-5i4anz",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@reactivex/rxjs": "^6.5.3",
+    "rxjs": "^6.5.2",
+    "typescript": "^3.7.2"
+  }
+}
